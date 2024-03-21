@@ -1,1 +1,1 @@
-# bgi1
+# Stellar-Workshop-Template
